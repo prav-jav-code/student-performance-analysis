@@ -36,7 +36,6 @@ student-performance-analysis/
 ├── requirements.txt       # Dependencies
 └── README.md              # Project documentation
 ```
-```
 
 ## 📊 Dataset
 The dataset contains student performance details such as:
